@@ -1,0 +1,18 @@
+# Raw and cleaned data: public, not redistributed here
+*.csv
+*.zip
+data/
+
+# Power BI temp/cache files
+*.pbi_cache
+.pbi/
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
